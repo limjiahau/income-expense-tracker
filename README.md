@@ -10,7 +10,7 @@
 ⭐ https://limjiahau-income-expense-tracker-app-7ocyfa.streamlit.app/
 
 ## Demo
-![DEMO GIF](https://github.com/limjiahau/income-expense-tracker/blob/bc2b5d352ede654b781ee0909e0b45cdbd024893/demo123.gif)
+![DEMO GIF](https://github.com/limjiahau/income-expense-tracker/blob/0a3159e26278f6db50678b508632344bbc944e73/demo.gif)
 
 
 ## Run the app
