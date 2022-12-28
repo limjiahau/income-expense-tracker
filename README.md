@@ -9,7 +9,7 @@ To visualize the monthly spending, we will use a Sankey Chart from Plotly.
 ⭐ https://limjiahau-income-expense-tracker-app-7ocyfa.streamlit.app/
 
 ## Demo
-![DEMO GIF](https://raw.githubusercontent.com/Sven-Bo/streamlit-income-expense-tracker/master/demo.gif)
+![DEMO GIF](https://github.com/limjiahau/income-expense-tracker/blob/main/demo.gif)
 
 
 ## Run the app
