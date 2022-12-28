@@ -1,7 +1,7 @@
 
 # Income & Expense Tracker built with Streamlit including NoSQL Database 
 
-Keep track of my monthly income and expenses on a web app created with Streamlit, leveraging Python and the Streamlit library to build an interactive web application. I used the free NoSQL Database from deta (https://deta.sh).
+Keeping track of my monthly income and expenses on a web app created with Streamlit, leveraging Python and the Streamlit library to build an interactive web application. I used the free NoSQL Database from deta (https://deta.sh).
 To visualize the monthly spending, I am using a Sankey Chart from Plotly.
 
 
