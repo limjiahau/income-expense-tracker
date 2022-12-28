@@ -7,7 +7,6 @@ from deta import Deta  # pip install deta
 
 # Load the environment variables
 # load_dotenv(".env")
-# DETA_KEY = "c0a4eg0u_SYhbHGcJhhPgtwfnBYbZyuo5HE4pTbxD"
 # DETA_KEY = os.getenv(DETA_KEY)
 DETA_KEY = st.secrets["DETA_KEY"]
 # https://docs.streamlit.io/streamlit-cloud/get-started/deploy-an-app/connect-to-data-sources/secrets-management
