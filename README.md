@@ -4,6 +4,8 @@
 - Keeping track of my monthly income and expenses on an interactive web app created with Streamlit by leveraging Python and the Streamlit library.
 - I used the free NoSQL Database from deta (https://deta.sh).
 - To visualize the monthly spending, I am using a Sankey Chart from Plotly.
+- Uploaded onto Streamlit cloud. 
+- Utilised Streamlit "Secrets management" to secure sensitive data.
 
 
 ## Demo Website
