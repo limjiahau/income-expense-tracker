@@ -5,7 +5,7 @@
 - I used the free NoSQL Database from deta (https://deta.sh).
 - To visualize the monthly spending, I am using a Sankey Chart from Plotly.
 - Uploaded onto Streamlit cloud. 
-- Utilised Streamlit "Secrets management" to secure sensitive data.
+- Utilised Streamlit "Secrets management" to secure sensitive finance data.
 
 
 ## Demo Website
